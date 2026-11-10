@@ -9,5 +9,52 @@
     "description": "Libro digital gratis.",
     "cover": "img/libros/Libro1.png",
     "pdf": "libros/book1.pdf"
+  },
+  
+{
+    "id": 2,
+    "title": "Juanito conocio la luna",
+    "author": "Anisia Miranda Fernández",
+    "genre": "Literatura Infantil",
+    "year": 1984,
+    "description": "Libro digital gratis.",
+    "cover": "img/libros/Libro2.png",
+    "pdf": "libros/book2.pdf"
+  },
+
+
+  {
+    "id": 3,
+    "title": "El tractor",
+    "author": "Anisia Miranda Fernández",
+    "genre": "Literatura Infantil",
+    "year": 1971,
+    "description": "Libro digital gratis.",
+    "cover": "img/libros/Libro3.png",
+    "pdf": "libros/book3.pdf"
+  },
+
+
+  {
+    "id": 4,
+    "title": "Lidia tiene un cocuyo",
+    "author": "Anisia Miranda Fernández",
+    "genre": "Literatura Infantil",
+    "year": 1968,
+    "description": "Libro digital gratis.",
+    "cover": "img/libros/Libro4.png",
+    "pdf": "libros/book4.pdf"
+  },
+
+
+  {
+    "id": 5,
+    "title": "La locomotora",
+    "author": "Anisia Miranda Fernández",
+    "genre": "Literatura Infantil",
+    "year": 1971,
+    "description": "Libro digital gratis.",
+    "cover": "img/libros/Libro5.png",
+    "pdf": "libros/book5.pdf"
   }
 ]
