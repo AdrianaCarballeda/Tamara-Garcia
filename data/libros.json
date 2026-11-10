@@ -2,21 +2,12 @@
 [
   {
     "id": 1,
-    "title": "Esta es Cuba, hermano ",
+    "title": "Esta es Cuba, hermano",
     "author": "Anisia Miranda Fernández",
     "genre": "Literatura Infantil",
     "year": 1960,
-    "description": "Description of book 1.",
-    "cover": "img/libros/Libro1.png"
+    "description": "Libro digital gratis.",
+    "cover": "img/libros/Libro1.png",
     "pdf": "libros/book1.pdf"
-  },
-  {
-    "id": 2,
-    "title": "Book Title 2",
-    "author": "Anisia Miranda Fernández",
-    "genre": "Poetry",
-    "year": null,
-    "description": "Description of book 2.",
-    "image": "img/books/book2.jpg"
   }
 ]
