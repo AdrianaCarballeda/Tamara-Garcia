@@ -340,3 +340,46 @@ footer a {
 .book-card a:hover {
   background: #bd7b16;
 }
+
+
+
+/* Biography section */
+
+.biografia {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 40px;
+  background: #fffaf0;
+  border-radius: 16px;
+  border: 1px solid #e5d9c5;
+}
+
+.biografia h2 {
+  color: #003b35;
+  font-size: 36px;
+  margin-bottom: 25px;
+}
+
+.biografia h3 {
+  color: #003b35;
+  font-size: 23px;
+  margin-top: 30px;
+  margin-bottom: 12px;
+}
+
+.biografia p {
+  color: #40534b;
+  font-size: 17px;
+  line-height: 1.9;
+  margin-bottom: 18px;
+}
+
+@media (max-width: 600px) {
+  .biografia {
+    padding: 22px;
+  }
+
+  .biografia h2 {
+    font-size: 28px;
+  }
+}
