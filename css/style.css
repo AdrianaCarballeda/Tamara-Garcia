@@ -286,3 +286,57 @@ footer a {
     padding: 24px;
   }
 }
+
+/* Books catalog layout */
+#books-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 25px;
+  margin-top: 30px;
+}
+
+/* Individual book card */
+.book-card {
+  background: #fffdf8;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Book cover size */
+.book-card img {
+  width: 160px;
+  height: 220px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto 15px;
+}
+
+/* Book titles */
+.book-card h3 {
+  font-size: 20px;
+  color: #003b35;
+  margin-bottom: 10px;
+}
+
+/* Book information */
+.book-card p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+/* Read and download links */
+.book-card a {
+  display: inline-block;
+  padding: 10px 12px;
+  margin: 5px;
+  background: #003b35;
+  color: white;
+  border-radius: 7px;
+  text-decoration: none;
+}
+
+.book-card a:hover {
+  background: #bd7b16;
+}
